@@ -4,9 +4,7 @@ import { getCollection } from 'astro:content';
 import satori from 'satori';
 import { html as toReactElement } from 'satori-html';
 
-const fontFile = await fetch(
-  'https://og-playground.vercel.app/inter-latin-ext-700-normal.woff'
-);
+const fontFile = await fetch('https://og-playground.vercel.app/inter-latin-ext-700-normal.woff');
 const fontData: ArrayBuffer = await fontFile.arrayBuffer();
 
 const height = 630;
