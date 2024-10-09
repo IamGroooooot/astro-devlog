@@ -18,11 +18,11 @@ const { post } = Astro.props;
   description={post.data.description}
 >
   <div class='flex justify-end my-4'>
-    <Button href={`${import.meta.env.BASE_URL}blog/${post.slug}/`}>Read post &rarr;</Button>
+    <Button href={`${import.meta.env.BASE_URL}blog/${post.slug}/`}>자세히 보기 &rarr;</Button>
   </div>
 
   <div class='hidden sm:inline-block'>
-    <p class='poppins mt-2'>tags:</p>
+    <p class='poppins mt-2'>태그:</p>
     <div class='flex justify-between items-center'>
       <ul class='flex flex-wrap gap-4 mt-2'>
         {
