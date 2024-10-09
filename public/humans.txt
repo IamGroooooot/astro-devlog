@@ -1,3 +1,11 @@
+## Groot Devlog ##
+
+Blog is edited version of Brutal Theme.
+All contents are written and owned by Groot(Juhyeong Ko)
+
+- github: github.com/iamgroooooot
+
+
 ## Brutal Theme ##
 
 All development & Content by Elian Van Cutsem

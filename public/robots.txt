@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
-Host: https://brutal.elian.codes/
-Sitemap: https://brutal.elian.codes/sitemap-index.xml
+Disallow:
+Host: https://iamgroooooot.github.io/astro-devlog/
+Sitemap: https://iamgroooooot.github.io/astro-devlog/sitemap-index.xml
